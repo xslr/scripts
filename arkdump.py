@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Dump interesting parameters for selected processors from ark.intel.com
+# and convert them to CSV for easier comparison
+
 import csv
 import time
 from lxml import html
